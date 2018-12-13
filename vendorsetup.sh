@@ -1,0 +1,6 @@
+add_lunch_combo lineage_vfd700-user
+add_lunch_combo lineage_vfd700-userdebug
+add_lunch_combo lineage_vfd700-eng
+add_lunch_combo rr_vfd700-user
+add_lunch_combo rr_vfd700-userdebug
+add_lunch_combo rr_vfd700-eng
